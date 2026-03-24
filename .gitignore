@@ -424,3 +424,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+lecture_14/.vscode/settings.json
+lecture_14/data/features.csv
+lecture_14/data/lecture_14_functions.ipynb
+lecture_14/.vscode/settings.json
+lecture_14/lecture_14_functions.ipynb
